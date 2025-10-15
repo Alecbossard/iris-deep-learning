@@ -1,0 +1,12 @@
+# Deep Learning Framework
+tensorflow
+
+# Data Handling and Numerical Operations
+pandas
+numpy
+
+# Machine Learning Utilities (for preprocessing and evaluation)
+scikit-learn
+
+# Plotting (to visualize training history)
+matplotlib
